@@ -1,2 +1,3 @@
 print("пусто")
-print("первый")
+print("one")
+print("two")
